@@ -1,0 +1,78 @@
+body{
+    color: black;
+    background-image: url(../img/BG1.png);
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+header img{ /* Todas as imagens*/
+    width: 150px; /*Mexe na largura*/
+    height: 150px; /*Mexe na altura*/
+    border-radius: 50%; /*Deixa a foto redonda*/
+    border: 5px solid black;
+}
+.foto{
+    text-align: center;
+}
+footer img{
+    width: 40px;
+    height: 40px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+footer a{
+   margin: 90px;
+   text-align: center;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer p{
+    margin-top: 2px;
+}
+
+h1{
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    text-align: center;
+    color: white;
+}
+
+section p{
+    text-align: center;
+    font-size: 20px;
+}
+
+a:hover{
+    background-color: lightgray;
+    border-radius: 5%;
+}
+
+.container{
+    padding: 25px 50px;
+}
+main p{
+    font-size: 25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
