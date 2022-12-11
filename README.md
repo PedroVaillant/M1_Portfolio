@@ -1,4 +1,4 @@
-## 👤 Projeto indivual da Resília - Portfólio
+# 👤 Projeto indivual da Resília - Portfólio
 Projeto em grupo do primeiro módulo, do curso Programadores Cariocas junto com a Resília. A ideia desse projeto e de criar minha primeira página, que nela contem nosso portifólio, com informações sobre mim, meus hobbies e botões que levam minhas redes sociais.
 
 ## 💻 Tecnologias utilizadas
