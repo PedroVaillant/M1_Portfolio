@@ -5,8 +5,8 @@ Projeto em grupo do primeiro módulo, do curso Programadores Cariocas junto com 
 <div align="center" style="display: inline_block">
 Nesse projeto, foram utilizados HTML5 e CSS3.
 <br>
-<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=">
+<img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=">
 </div>
 
 ---
