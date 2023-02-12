@@ -1,5 +1,5 @@
 # 👤 Projeto: Quem não é visto não é lembrado!
-Projeto em grupo do primeiro módulo, do curso Programadores Cariocas junto com a Resilia. A ideia desse projeto e de criar minha primeira página, que nela contem nosso portifólio, com informações sobre mim, meus hobbies e botões que levam minhas redes sociais.
+Projeto em grupo do 1º módulo, do curso Full-Stack Programadores Cariocas junto com a Resilia. A ideia desse projeto e de criar minha primeira página, que nela contem nosso portifólio, com informações sobre mim, meus hobbies e botões que levam minhas redes sociais.
 
 ### 💻 Tecnologias utilizadas
 <div align="center" style="display: inline_block">
